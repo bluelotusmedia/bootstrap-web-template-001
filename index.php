@@ -57,7 +57,7 @@
           </ul>
         </li>
       </ul>
-      <form class="navbar-form navbar-left" role="search">
+      <form class="navbar-form navbar-right" role="search">
         <div class="form-group">
           <input type="text" class="form-control" placeholder="Search">
         </div>
@@ -79,6 +79,31 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+
+<div class="jumbotron">
+	<div class="container">
+      <h1>Hello, world!</h1>
+      <p>...</p>
+      <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
+	</div>
+</div>
+
+<div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4 content-box">
+      <h3>Heading 1</h3>
+      <p>This is where the text goes.</p>
+      </div>
+      <div class="col-md-4 content-box">
+      <h3>Heading 2</h3>
+      <p>This is where the text goes.</p>
+      </div>
+      <div class="col-md-4 content-box">
+      <h3>Heading 3</h3>
+      <p>This is where the text goes.</p>
+      </div>
+    </div>
+</div> 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>

@@ -1,6 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.navbar {
+    margin-bottom:0;
+}
 .navbar-brand {
     padding: 5px;
+}
+
+.content-box {
+	background:#383838;	
+	color:#ffffff;
+	min-height:300px;
 }
