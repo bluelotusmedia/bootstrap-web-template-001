@@ -25,7 +25,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -92,15 +92,15 @@
     <div class="row">
       <div class="col-md-4 content-box">
       <h3>Heading 1</h3>
-      <p>This is where the text goes.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut urna diam. Ut in nunc vitae metus porta vehicula. Nullam mauris nulla, ornare viverra hendrerit eu, tempor vel est. Nullam ac aliquam purus. Suspendisse vel erat id elit vehicula venenatis in id leo. Donec bibendum placerat vulputate. In elit orci, iaculis ac tortor eget, euismod condimentum odio. Fusce varius, purus in congue tincidunt, lectus arcu porttitor nisl, nec pulvinar sapien ligula a mauris.</p>
       </div>
       <div class="col-md-4 content-box">
       <h3>Heading 2</h3>
-      <p>This is where the text goes.</p>
+      <p>Aenean sit amet lacus pharetra, sagittis tellus nec, ornare nunc. Sed mattis non libero non faucibus. Curabitur ante ex, dapibus in vestibulum accumsan, aliquet non arcu. Fusce fermentum et leo ut convallis. Vestibulum placerat lectus vitae ligula dignissim hendrerit. Donec tincidunt ligula varius tristique tincidunt. Donec non diam massa. In dignissim, odio eu dignissim iaculis, massa eros imperdiet nisl, eget laoreet est ipsum eget augue. Curabitur odio justo, malesuada at fringilla at, gravida a mauris. Duis feugiat nisi in mollis finibus.</p>
       </div>
       <div class="col-md-4 content-box">
       <h3>Heading 3</h3>
-      <p>This is where the text goes.</p>
+      <p>Duis ante odio, fermentum id ullamcorper ac, ornare ut dui. Suspendisse fermentum mi neque, eget laoreet nisi convallis sit amet. Proin posuere magna et felis maximus, a ornare est commodo. Phasellus ac elit vel sem porta tincidunt. Donec ac mauris id risus eleifend ullamcorper nec at turpis. Nam bibendum egestas posuere. Suspendisse potenti. Maecenas sed sapien hendrerit, iaculis risus sit amet, viverra erat. Aenean sed sapien vitae sem pellentesque elementum et non tellus. Aliquam at mauris a nisi dictum fringilla sed id dolor.</p>
       </div>
     </div>
 </div> 
