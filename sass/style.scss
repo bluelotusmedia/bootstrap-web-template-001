@@ -1,0 +1,20 @@
+/* SCSS */
+
+$offblack: #222222;
+$primary-color: #0000ff;
+$secondary-color: #00aaff;
+
+body {color:$offblack;}
+
+.jumbotron h1 {color:$primary-color;}
+
+h2, h3, h4, h5 {color:$secondary-color;}
+
+.navbar {
+    margin-bottom:0;
+}
+.navbar-brand {
+    padding: 5px;
+}
+
+.btn-primary {background:$primary-color;}
